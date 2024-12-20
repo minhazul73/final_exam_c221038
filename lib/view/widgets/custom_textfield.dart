@@ -34,7 +34,6 @@ class CustomTextfield extends StatelessWidget {
             hintText: hint,
             hintStyle: TextStyle(color: Colors.grey, fontStyle: FontStyle.italic),
             filled: true,
-            fillColor: Colors.black,
             // Change to a solid color
             border: OutlineInputBorder(
               borderRadius: BorderRadius.circular(11.0),
